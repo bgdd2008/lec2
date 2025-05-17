@@ -22,7 +22,7 @@ function App() {
       <Card 
       title={'giorgi'}  
       content={'tele dade'} />
-      <Card />
+      
     </div>
   )
 }

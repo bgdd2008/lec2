@@ -1,0 +1,33 @@
+.card{
+  width: 300px;
+  height: 300px;
+  padding: 10px;
+  border: 2px solid black;
+  border-radius: 10px;
+  background-color: lightpink;
+}
+.header{
+  width: 100%;
+  height: 40px;
+  background-color: lightblue;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+.avatar{
+  width: 300px;
+  height: 200px;
+  border: 2px solid black;
+  border-radius: 12px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+.avatar img{
+  width: 120px;
+  height: 120px;
+  border-radius: 100%;
+}

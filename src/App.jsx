@@ -2,6 +2,7 @@ import './App.css'
 import Avatar from './components/Avatar'
 import Card from './components/Card'
 import Header from './components/Header'
+import Footer from './Footer'
 
 function App() {
 
@@ -22,7 +23,7 @@ function App() {
       <Card 
       title={'giorgi'}  
       content={'tele dade'} />
-      
+      <Footer />
     </div>
   )
 }
